@@ -3,6 +3,7 @@
 ## Purpose:
 ### The purpose of this assignment is to use css to style sidebars and navigation.
 
+
 # Illnois Tech Web Development Projects
 
 | Project Name | Level | Recommended Tech | Link/Status
